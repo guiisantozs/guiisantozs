@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Guilherme Santos.
 
-🎓 Estudante de Sistemas de Informação. 
-💻 Aprendendo Pyhton e Java.  
-🚀 Desenvolvendo projetos e aprendendo todos os dias
+- 🎓 Estudante de Sistemas de Informação. 
+- 💻 Aprendendo Pyhton e Java.  
+- 🚀 Desenvolvendo projetos e aprendendo todos os dias
 
 ---
 
