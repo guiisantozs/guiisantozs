@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Santos.
 
-<!--
-**guiisantozs/guiisantozs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação. 
+💻 Aprendendo Pyhton e Java.  
+🚀 Desenvolvendo projetos e aprendendo todos os dias
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+
+- Python
+- Lógica de Programação
+- Git e GitHub
+- Java
+- Banco de dados
+
+---
+
+## 📚 Cursos realizados
+- Python - Mundo 1 / Curso em Vídeo
+- Git e GitHub / Curso em Vídeo
+
+---
+
+## 🛠 Tecnologias e ferramentas
+![Python](https://img.shields.io/badge/Python-blue)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [guiisantozs](https://www.linkedin.com/in/gui-santos-5489052b6/)
+
+
