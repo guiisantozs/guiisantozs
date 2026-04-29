@@ -1,18 +1,16 @@
-# 👋 Olá! Eu sou o Guilherme Santos.
+# Me chamo Guilherme Santos.
 
 - 🎓 Estudante de Sistemas de Informação. 
-- 💻 Aprendendo Pyhton e Java.  
-- 🚀 Desenvolvendo projetos e aprendendo todos os dias
+- 💻 Desenvolvedor em formação. 
+- 🚀 Back-end com Java.
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Python
 - Lógica de Programação
 - Git e GitHub
 - Java
-- Banco de dados
 
 ---
 
