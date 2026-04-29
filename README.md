@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-
+![Java](https://img.shields.io/badge/Java-red)
 ---
 
 ## 📫 Contato
