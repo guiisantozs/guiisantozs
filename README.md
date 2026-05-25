@@ -1,34 +1,33 @@
-# Me chamo Guilherme Santos.
+# Guilherme Santos Oliveira
 
-- 🎓 Estudante de Sistemas de Informação. 
-- 💻 Desenvolvedor em formação. 
-- 🚀 Back-end com Java.
+Estudante de Sistemas de Informação e desenvolvedor em formação.
 
----
+Estou começando minha jornada na programação e focando em construir uma base sólida em lógica, desenvolvimento web e projetos práticos.
 
-## 📚 Atualmente estudando
+Atualmente venho estudando:
 
-- Lógica de Programação
-- Git e GitHub
+- Python
 - Java
+- JavaScript
+- HTML e CSS
+- Git e GitHub
+- React
+- Next.js
+- PostgreSQL
 
----
+## Cursos
 
-## 📚 Cursos realizados
-- Python - Mundo 1 / Curso em Vídeo
-- Git e GitHub / Curso em Vídeo
+- Sistemas de Informação — Unex
+- Python 3 — Curso em Vídeo
+- Git e GitHub — Curso em Vídeo
+- Java com Orientação a Objetos — em andamento
+- Desenvolvimento Web Full Stack — em andamento
 
----
+Meu foco agora é praticar mais, criar projetos reais e evoluir como desenvolvedor full-stack.
 
-## 🛠 Tecnologias e ferramentas
-![Python](https://img.shields.io/badge/Python-blue)
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Java](https://img.shields.io/badge/Java-red)
----
+Aqui no GitHub vou organizar meus estudos, testes e projetos conforme for aprendendo.
 
-## 📫 Contato
+## Contato
 
-- LinkedIn: [guiisantozs](https://www.linkedin.com/in/gui-santos-5489052b6/)
-
-
+- Portfólio: [guiisantozs.github.io/portfolio](https://guiisantozs.github.io/portfolio)
+- E-mail: guiisantozs@gmail.com
