@@ -1,10 +1,6 @@
-<h1 align="center">Guilherme Santos Oliveira</h1>
-
 <p align="center">
-Full Stack Developer in progress focused on modern web applications, clean UI and scalable solutions.
+  <img src="./banners.png" alt="Banner" />
 </p>
-
----
 
 <p align="center">
 <a href="https://guiisantozs.github.io/portfolio/">
