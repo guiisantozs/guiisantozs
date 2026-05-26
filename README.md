@@ -1,33 +1,82 @@
-# Guilherme Santos Oliveira
+<h1 align="center">Guilherme Santos Oliveira</h1>
 
-Estudante de Sistemas de Informação e desenvolvedor em formação.
+<p align="center">
+Full Stack Developer in progress focused on modern web applications, clean UI and scalable solutions.
+</p>
 
-Estou começando minha jornada na programação e focando em construir uma base sólida em lógica, desenvolvimento web e projetos práticos.
+---
 
-Atualmente venho estudando:
+<p align="center">
+<a href="https://guiisantozs.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- Java
-- JavaScript
-- HTML e CSS
-- Git e GitHub
-- React
-- Next.js
+<a href="https://www.linkedin.com/in/gui-santos-5489052b6/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:guiisantozs@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## About Me
+
+- Information Systems student
+- Focused on Full Stack Development
+- Building practical projects to improve architecture and problem-solving
+- Interested in modern UI, performance and scalable applications
+
+---
+
+## Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,python,postgres,git,github" />
+</p>
+
+---
+
+## Currently Learning
+
+- React & Next.js
+- Java OOP
 - PostgreSQL
-- Python
+- Backend Architecture
+- Git & GitHub Workflow
 
-## Cursos
+---
 
-- Sistemas de Informação — Unex - Primeiro Semestre
-- Python 3 - Básico  — Curso em Vídeo -  Concluído
-- Git e GitHub — Curso em Vídeo - Concluído
-- Java com Orientação a Objetos — Udemy - em andamento
-- Desenvolvimento Web Full Stack — curso.dev - em andamento
+## GitHub Statistics
 
-Meu foco agora é praticar mais, criar projetos reais e evoluir como desenvolvedor full-stack.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guiisantozs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guiisantozs&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Aqui no GitHub vou organizar meus estudos, testes e projetos conforme for aprendendo.
+---
 
-## Contato
+## Contribution Streak
 
-- Portfólio: [guiisantozs.github.io/portfolio](https://guiisantozs.github.io/portfolio)
-- E-mail: guiisantozs@gmail.com
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=guiisantozs&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Main Goals
+
+- Build real-world projects
+- Strengthen full stack skills
+- Improve clean code and architecture
+- Create scalable and functional applications
+
+---
+
+## Contact
+
+- Portfolio: https://guiisantozs.github.io/portfolio/
+- Email: guiisantozs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gui-santos-5489052b6/
